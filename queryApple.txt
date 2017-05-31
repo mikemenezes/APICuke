@@ -1,0 +1,26 @@
+[
+  {
+    "asset_id": "12341",
+    "text": "an apple a day keeps the doctor away",
+    "keywords": [
+      "apple",
+      "red",
+      "pink"
+    ],
+    "thumbnail": "http://interview-testing-api.webdamdb.com/images/apples.jpg",
+    "date_modified": 1483275313,
+    "date_created": 1494287713
+  },
+  {
+    "asset_id": "12344",
+    "text": "Esa es una bonita Manzana",
+    "keywords": [
+      "apple",
+      "cherry",
+      "red"
+    ],
+    "thumbnail": "http://interview-testing-api.webdamdb.com/images/red-apple.jpg",
+    "date_modified": 1494285713,
+    "date_created:": 1483285713
+  }
+]
